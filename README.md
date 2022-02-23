@@ -5,9 +5,7 @@ This guide is for system adminitrators (sysadmins). Make sure to follow it and y
 
 
 ## To do
- - [ ] Resign from your job
-
-
+ - [ ] When your boss tells you that production is down go [here](https://www.fortypoundhead.com/tools_system_administrator_excuse_generator.asp)
 
 ## Not to do
  - [ ] don't develop on production server
@@ -15,7 +13,7 @@ This guide is for system adminitrators (sysadmins). Make sure to follow it and y
  - [ ] don't edit .ssh permissions, definetly don't put them on 777
  - [ ] do not under ***ANY*** circumstances install zsh on production servers
  - [ ] **NEVER EVER** install windows on a server
-
+ - [ ] don't be on time for anything
 
 ## Contribuiton
 If you encounter any major event that you thik should be on this list, please open an issue or create pull request. Thank you.
