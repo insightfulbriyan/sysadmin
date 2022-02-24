@@ -14,6 +14,7 @@ This guide is for system adminitrators (sysadmins). Make sure to follow it and y
  - [ ] do not under ***ANY*** circumstances install zsh on production servers
  - [ ] **NEVER EVER** install windows on a server
  - [ ] don't be on time for anything
+ - [ ] don't cancel update after it starts
 
 ## Contribuiton
 If you encounter any major event that you thik should be on this list, please open an issue or create pull request. Thank you.
