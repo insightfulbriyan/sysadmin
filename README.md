@@ -19,6 +19,7 @@ This guide is for system adminitrators (sysadmins). Make sure to follow it and y
  - [ ] don't break usb port on ESP-32 (not realy sysadmin but it [happened to me](https://cdn.discordapp.com/attachments/458358973926473739/955860047169191966/IMG_20220322_170545.jpg)
  - [ ] don't do `sudo apt upgrade` on new server if you want to use it soon
  - [ ] don't use python for discord bots.
+ - [ ] don't use CLI if you can use GUI
 
 ## Contribuiton
 If you encounter any major mistake that you thik should be on this list, please open an issue or create pull request. Thank you.
