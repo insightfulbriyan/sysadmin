@@ -20,7 +20,7 @@ This guide is for system adminitrators (sysadmins). Make sure to follow it and y
  - [ ] don't do `sudo apt upgrade` on new server if you want to use it soon
  - [ ] don't use python for discord bots.
  - [ ] don't use CLI if you can use GUI
- - [ ] don't do new stuff aftr 2200
+ - [ ] don't do new stuff after 2200
 
 ## Contribuiton
 If you encounter any major mistake that you thik should be on this list, please open an issue or create pull request. Thank you.
